@@ -1,4 +1,4 @@
-function begin() 
+function begin()  
 {
 	//Obtencion de la fecha actual
 	now = new Date();
